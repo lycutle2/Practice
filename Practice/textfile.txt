@@ -1,1 +1,3 @@
-﻿this is practice with new text file to be commited to github
+﻿this is practice with new text file to be commited to github.
+
+modified text file....hello world.
